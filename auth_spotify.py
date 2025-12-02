@@ -1,6 +1,6 @@
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
-
+ 
 CLIENT_ID = "8de28aabc43a4643ad29894586a45f68"
 CLIENT_SECRET = "34730f008beb4ba29efb4e48a3354c5f"
 REDIRECT_URI = "http://127.0.0.1:8080/callback"
