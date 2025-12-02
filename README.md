@@ -392,14 +392,4 @@ Feel free to extend this project with:
 
 This project is created for educational purposes.
 
----
 
-## ✨ Keywords for Your Project
-
-Hand Gesture Recognition | Computer Vision | MediaPipe | Machine Learning | 
-Real-time Processing | Gesture Classification | Media Control | Audio Control | 
-Python | Scikit-learn | OpenCV | AI | AIML
-
----
-
-**Good luck with your project! 🚀**
