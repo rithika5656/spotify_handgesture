@@ -3,7 +3,7 @@
 Control Spotify using hand gestures through your laptop camera — no keyboard or mouse needed!
 This project uses MediaPipe, OpenCV, and Spotipy (Spotify API) to detect real-time hand gestures and trigger Spotify actions like play, pause, next, previous, volume control, etc.
 
-# ✨ Features
+#  Features
 Gesture	Action
 ✋ Palm	Volume Up
 ✊ Fist	Volume Down
@@ -17,7 +17,7 @@ Gesture	Action
 ✔ Very lightweight and fast
 ✔ Works on Windows/Linux/Mac
 
-# 📸 Technologies Used
+# Technologies Used
 
 Python 3.11
 
